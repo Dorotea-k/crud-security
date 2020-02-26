@@ -2,7 +2,7 @@
 
 CRUD Database project, coded along https://www.udemy.com/course/spring-hibernate-tutorial/.
 
-Perspective: An existing application where users are able to add, update, delete or get the employee should be secured with 
+Perspective: An existing spring boot and thymeleaf application where users are able to add, update, delete or get the employee should be secured with 
 defined users and roles with simple authentication.
 
 Personal learning objectives:
